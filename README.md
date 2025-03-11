@@ -6,6 +6,7 @@ A summary about my talks
 | [Cursor AI](https://github.com/jabrena/101-cursor) | https://jabrena.github.io/101-cursor/                                                         | 01/03/2025 |
 | [Pyramid of Testing](https://github.com/jabrena/spring-boot-integration-testing) | https://jabrena.github.io/spring-boot-integration-testing/      | 01/03/2025 |
 | [Impact mapping](https://github.com/jabrena/101-impact-mapping)               | https://jabrena.github.io/101-impact-mapping/                      | 01/11/2024 |
+| [Programación de aplicaciones telemáticas](https://gitt-3-pat.github.io/) | https://github.com/gitt-3-pat                            | 01/09/2022 |
 | [101 JMH](https://github.com/jabrena/101-concurrency)                  | https://jabrena.github.io/101-concurrency/                  | 01/09/2022 |
 | [101 DDD](https://github.com/jabrena/101-ddd)                          | https://jabrena.github.io/101-ddd/                          | 01/01/2022 |
 | [Crossing the chasm native images](https://github.com/jabrena/crossing-the-chasm-native-images) | https://jabrena.github.io/crossing-the-chasm-native-images/ | 01/06/2021 |
