@@ -4,9 +4,9 @@ A summary about my talks, presentations & academic courses.
 | Repository                                         | Slides     | Topic      | City       | Date       |
 |----------------------------------------------------|------------|------------|------------|------------|
 | [Cursor AI v3](https://github.com/jabrena/101-cursor) | [Slides](https://jabrena.github.io/101-cursor/) | Tooling | [W-JAX](https://jax.de/generative-ai-ecosystem/cursor-ai-101-java-enterprise/) Munich | 06/11/2025 |
-| [Cursor AI v2](https://github.com/jabrena/101-cursor/v020/) | [Slides](https://jabrena.github.io/101-cursor/) | Tooling | [Devoxx BE](https://devoxx.be/) Antwerp | 07/10/2025 |
+| [Cursor AI v2](https://github.com/jabrena/101-cursor/) | [Slides](https://jabrena.github.io/101-cursor/v020/) | Tooling | [Devoxx BE](https://devoxx.be/) Antwerp | 07/10/2025 |
 | [The power of Cursor rules in Java Enterprise development](https://github.com/jabrena/cursor-rules-java) | [Slides](https://jabrena.github.io/cursor-rules-java/dvbe25/) | Tooling | [Devoxx BE](https://devoxx.be/) Antwerp | 07/10/2025 |
-| [Cursor AI](https://github.com/jabrena/101-cursor/v010/) | [Slides](https://jabrena.github.io/101-cursor/) | Tooling | Madrid | 01/05/2025 |
+| [Cursor AI](https://github.com/jabrena/101-cursor/) | [Slides](https://jabrena.github.io/101-cursor/v010/) | Tooling | Madrid | 01/05/2025 |
 | [Be or not to be in a Pyramid of Testing](https://github.com/jabrena/spring-boot-integration-testing) | [Slides](https://jabrena.github.io/spring-boot-integration-testing/) | Testing | Madrid | 01/03/2025 |
 | [Impact mapping](https://github.com/jabrena/101-impact-mapping)           | [Slides](https://jabrena.github.io/101-impact-mapping/) | Software engineering | Madrid | 01/11/2024 |
 | [Programación de aplicaciones telemáticas](https://gitt-3-pat.github.io/) | [Slides](https://github.com/gitt-3-pat) | Java frameworks | Madrid | 01/09/2022 |
