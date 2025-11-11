@@ -9,7 +9,7 @@ A summary about my talks, presentations & academic courses.
 | [Cursor AI](https://github.com/jabrena/101-cursor/) | [Slides](https://jabrena.github.io/101-cursor/v010/) | Tooling | [MadridJUG](https://www.meetup.com/es-ES/madridjug/) @ Madrid | 01/05/2025 |
 | [Be or not to be in a Pyramid of Testing](https://github.com/jabrena/spring-boot-integration-testing) | [Slides](https://jabrena.github.io/spring-boot-integration-testing/) | Testing | Madrid | 01/03/2025 |
 | [Impact mapping](https://github.com/jabrena/101-impact-mapping)           | [Slides](https://jabrena.github.io/101-impact-mapping/) | Software engineering | Madrid | 01/11/2024 |
-| [Programación de aplicaciones telemáticas](https://gitt-3-pat.github.io/) | [Slides](https://github.com/gitt-3-pat) | Java frameworks | Madrid | 01/09/2022 |
+| [Programación de aplicaciones telemáticas](https://gitt-3-pat.github.io/) | [Slides](https://github.com/gitt-3-pat) | Java frameworks | [ICAI](https://www.comillas.edu/icai/) @ Madrid | 01/09/2022 |
 | [101 JMH](https://github.com/jabrena/101-concurrency)                  | [Slides](https://jabrena.github.io/101-concurrency/) | Tooling | Amsterdam | 01/09/2022 |
 | [101 DDD](https://github.com/jabrena/101-ddd)                          | [Slides](https://jabrena.github.io/101-ddd/) | Software engineering | [MadridJUG](https://www.meetup.com/es-ES/madridjug/) @ Madrid | 01/01/2022 |
 | [Crossing the chasm : Native images](https://github.com/jabrena/crossing-the-chasm-native-images) | [Slides](https://jabrena.github.io/crossing-the-chasm-native-images/) | Tooling | Milton Keynes | 01/06/2021 |
