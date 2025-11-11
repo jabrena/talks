@@ -11,7 +11,7 @@ A summary about my talks, presentations & academic courses.
 | [Impact mapping](https://github.com/jabrena/101-impact-mapping)           | [Slides](https://jabrena.github.io/101-impact-mapping/) | Software engineering | Madrid | 01/11/2024 |
 | [Programación de aplicaciones telemáticas](https://gitt-3-pat.github.io/) | [Slides](https://github.com/gitt-3-pat) | Java frameworks | Madrid | 01/09/2022 |
 | [101 JMH](https://github.com/jabrena/101-concurrency)                  | [Slides](https://jabrena.github.io/101-concurrency/) | Tooling | Amsterdam | 01/09/2022 |
-| [101 DDD](https://github.com/jabrena/101-ddd)                          | [Slides](https://jabrena.github.io/101-ddd/) | Software engineering | [MadridJUG](https://www.meetup.com/es-ES/madridjug/) Madrid | 01/01/2022 |
+| [101 DDD](https://github.com/jabrena/101-ddd)                          | [Slides](https://jabrena.github.io/101-ddd/) | Software engineering | [MadridJUG](https://www.meetup.com/es-ES/madridjug/) @ Madrid | 01/01/2022 |
 | [Crossing the chasm : Native images](https://github.com/jabrena/crossing-the-chasm-native-images) | [Slides](https://jabrena.github.io/crossing-the-chasm-native-images/) | Tooling | Milton Keynes | 01/06/2021 |
 | Tarugo 20                                          | [Slides](https://docs.google.com/presentation/d/1usuybQklj8s-G3mE9f92K0PTWgZK3OSh0zGv8buATqM/edit?usp=sharing) | People | Madrid | 01/02/2021 |
 | [101 Profiling for Microservices](https://github.com/jabrena/101-profiling-microservices) | [Slides](https://jabrena.github.io/101-profiling-microservices/) | SRE | Brussels |  01/05/2019 |
